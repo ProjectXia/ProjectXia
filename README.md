@@ -5,8 +5,8 @@
 🙏, I'm Zia Ul Mustafa.  
 ## React Native Developer 👨‍💻
 
-[![](https://img.shields.io/badge/Facebook-AnhQuanNguyen-blue)](https://www.facebook.com/anhquan291/)
-[![](https://img.shields.io/badge/Gmail-anhquan291%40gmail.com-red)](mailto:anhquan291@gmail.com)
+[![](https://img.shields.io/badge/Facebook-AnhQuanNguyen-blue)](https://www.facebook.com/)
+[![](https://img.shields.io/badge/Gmail-mustafavi.zia%40gmail.com-red)](mailto:mustafavi.zia@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -18,7 +18,7 @@ const UserInformation = {
     askMeAbout: ["app developer"],
     technologies:{
         fronend: ["react-native","reactjs"],
-        backend: ["nodejs", "express","socketIO"],
+        backend: ["nodejs", "express"],
         database: ["mongo","mysql"],
         others:["Photoshop", "Premiere", "After-effect","Illustraion"]
     },
