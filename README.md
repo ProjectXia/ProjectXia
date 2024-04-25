@@ -5,7 +5,7 @@
 🙏, I'm Zia Ul Mustafa.  
 ## React Native Developer 👨‍💻
 
-[![](https://img.shields.io/badge/Facebook-AnhQuanNguyen-blue)](https://www.facebook.com/)
+[![](https://img.shields.io/badge/Facebook-ZiaUlMustafa090-blue)](https://www.facebook.com/ZiaUlMustafa090/)
 [![](https://img.shields.io/badge/Gmail-mustafavi.zia%40gmail.com-red)](mailto:mustafavi.zia@gmail.com)
 
 
