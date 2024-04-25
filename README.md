@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-🙏, I'm Zia Ul Mustafa.  
+👋, I'm Zia Ul Mustafa.  
 ## React Native Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Facebook-ZiaUlMustafa090-blue)](https://www.facebook.com/ZiaUlMustafa090/)
